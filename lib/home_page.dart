@@ -13,7 +13,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   final Random _random = Random();
 
-  ///Init variable [color] white value.
+  ///Init variable [_color] white value.
   Color _color = Color(0xFFFFFFFF);
 
   ///Method to set random color for privat [_color].
